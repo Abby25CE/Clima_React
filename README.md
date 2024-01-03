@@ -1,2 +1,2 @@
 # Clima_React
- Prueba tecnica para esidencias de Digital Ingnition 
+ Prueba tecnica para Residencias de Digital Ingnition 
